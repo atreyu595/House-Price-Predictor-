@@ -40,6 +40,7 @@ Finally, the working tree directory used for this project is:
             index.html
 
 Link to image source used as background: https://www.realestate.com.au/news/neighbourhoods-makes-one/
+
 The final result should look like this:
 ![firstpic](https://user-images.githubusercontent.com/69723555/132649096-9d1effe7-0393-477c-aff1-a0e95e702a7d.JPG)
 
