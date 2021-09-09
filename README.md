@@ -23,3 +23,19 @@ After the analysis, the following scripts were then developed to deploy the mode
 - index.html: The home page of the application
 
 Additionally, there are the 2 images which were used for the design.
+
+Finally, the working tree directory used for this project is:
+
+\project
+    app.py
+    model.py
+    model.pkl
+    
+    \static
+        \img 
+          \images in repo 
+        \styles 
+          \styling is implemented within "index.html"
+    
+    \template
+        index.html
