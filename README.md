@@ -12,4 +12,14 @@ The following project aims at developing a crucial understanding of Full-stack D
 - Model Evaluation: Analyse goodness-of-fit, RMSE and correlations.
 - Deployment: Deploy model into website application
 
+The full script can be viewed in file "House Price Predictor - Exploratory Analysis.ipynb"
 A full overview and analysis of the whole project can be read in my recently published article in Towards Data Science -> https://towardsdatascience.com/deploying-machine-learning-models-into-a-website-using-flask-8582b7ce8802
+
+## After Analysis
+After the analysis, the following scripts were then developed to deploy the model:
+- app.py: The Flask application
+- model.py: The regression model program  
+- model.pkl: the saved model using the "pickle" library
+- index.html: The home page of the application
+
+Additionally, there are the 2 images which were used for the design.
