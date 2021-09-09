@@ -26,14 +26,19 @@ Additionally, there are the 2 images which were used for the design.
 
 Finally, the working tree directory used for this project is:
 
-\project
-    app.py
-    model.py
-    model.pkl
-    \static
-        \img 
-          \images in repo 
-        \styles 
-          \styling is implemented within "index.html"
-    \template
-        index.html
+    \project
+        app.py
+        model.py
+        model.pkl
+    
+        \static
+            \img 
+                \images in repo stored here 
+            \styles 
+                \styling is implemented within "index.html"
+        \template
+            index.html
+
+The final result should look like this:
+![firstpic](https://user-images.githubusercontent.com/69723555/132649096-9d1effe7-0393-477c-aff1-a0e95e702a7d.JPG)
+
