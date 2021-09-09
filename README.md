@@ -30,12 +30,10 @@ Finally, the working tree directory used for this project is:
     app.py
     model.py
     model.pkl
-    
     \static
         \img 
           \images in repo 
         \styles 
           \styling is implemented within "index.html"
-    
     \template
         index.html
