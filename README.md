@@ -10,4 +10,6 @@ The following project aims at developing a crucial understanding of Full-stack D
 - Data Pre-processing: Split data into training and testing sets
 - Model Development: Develop regression analysis
 - Model Evaluation: Analyse goodness-of-fit, RMSE and correlations.
-- Deployment: Deploy model into website application 
+- Deployment: Deploy model into website application
+
+A full overview and analysis of the whole project can be read in my recently published article in Towards Data Science -> https://towardsdatascience.com/deploying-machine-learning-models-into-a-website-using-flask-8582b7ce8802
